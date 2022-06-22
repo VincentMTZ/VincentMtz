@@ -1,4 +1,3 @@
-Hey 👋, I'm Vincent Martinez
 
 Hi there, I'm **Vincent Martinez**, a **High School student** currently exploring different careers in **Computer Science**
 
@@ -8,10 +7,10 @@ Hi there, I'm **Vincent Martinez**, a **High School student** currently explorin
 
 - 👨🏽‍💻 I’m currently a High School Student
 - 🌱 I’m currently learning API Development
-- 🤔 My interests are with Full-Stack Development, and Game Development 
-- 💼 I’m pursuing a Master's Degree in Computer Science
+- 🤔 My interests are with Full-Stack Development, and Software Engineering
+- 💼 I intend to pursue a master's degree in computer science
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via vmichaelmartinez@gmail.com to reach me.
+- 📫 Please email me at vmichaelmartinez@gmail.com
 
 
 **Languages**
